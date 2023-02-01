@@ -87,7 +87,7 @@
     opacity: 1;
     transform: scale(1.03);
   }
-  @media ( max-width :400px  ) {
+  @media ( max-width :580px  ) {
     .card{
         width: 48%;
         height: 9.063rem;
